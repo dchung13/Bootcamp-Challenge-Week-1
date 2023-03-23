@@ -4,13 +4,16 @@
 <head>
     <meta charset="UTF-8" />
     <link rel="stylesheet" href="./assets/css/style.css">
+    <!--added a title to the metadata denoting what the page is-->
     <title>Horiseon: Marketing Agency</title>
 </head>
 
 <body>
+    <!--changed div tags to section for accessibility to denote each section and not just a division-->
     <section class="header">
-        <h1>Hori<span class="seo">seo</span>n</h1>
-        <section>
+        <!--changed span to em for emphasis on the seo characters for accessibility reasons-->
+        <h1>Hori<em class="seo">seo</em>n</h1>
+        <section id="nav">
             <ul>
                 <li>
                     <a href="#search-engine-optimization">Search Engine Optimization</a>
@@ -24,11 +27,14 @@
             </ul>
         </section>
     </section>
+
     <section class="hero">
-        <img alt="Digital Marketing team engaged in a meeting" />
+        <img src="./assets/images/digital-marketing-meeting.jpg" alt="Digital Marketing team engaged in a meeting">
     </section>
+    
     <section class="content">
         <section class="search-engine-optimization">
+            <!--added alt tag to describe given image for screen reader accessibility-->
             <img src="./assets/images/search-engine-optimization.jpg" class="float-left" alt="Search Engine Optimization thought cloud with backlink, content, headings, link building, mobile compatibility, and social media branches"/>
             <h2>Search Engine Optimization</h2>
             <p>
@@ -36,14 +42,16 @@
             </p>
         </section>
         <section id="online-reputation-management" class="online-reputation-management">
-            <img src="./assets/images/online-reputation-management.jpg" class="float-right" />
+            <!--added alt tag to describe given image for screen reader accessibility-->
+            <img src="./assets/images/online-reputation-management.jpg" class="float-right" alt="Graph on a computer labeled reputation with arrow going upwards"/>
             <h2>Online Reputation Management</h2>
             <p>
                 The web is full of opinions, and some of these can be negative. Social media allows anyone with an internet connection to say whatever they want about your business. Online Reputation Management gives you the control over what potential customers see when they search for your business.
             </p>
         </section>
         <section id="social-media-marketing" class="social-media-marketing">
-            <img src="./assets/images/social-media-marketing.jpg" class="float-left" />
+            <!--added alt tag to describe given image for screen reader accessibility-->
+            <img src="./assets/images/social-media-marketing.jpg" class="float-left" alt="Share, Like, Tweet, Media buzzwords with images of camera, phone, music, and other social media items" />
             <h2>Social Media Marketing</h2>
             <p>
                 Social media continues to have a sizable influence on buying habits. Social media marketing helps you determine which platforms are suited to your brand, using analytics to find the right markets and increase your lead generation.
