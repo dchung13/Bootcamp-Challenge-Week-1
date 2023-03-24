@@ -1,5 +1,7 @@
 /*                    || UNIVERSAL SELECTORS ||                    */
 /*                    ||                     ||                    */
+/*                    ||                     ||                    */
+/*                    ||                     ||                    */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -8,12 +10,13 @@
 
 /*                    ||  MAIN SELECTORS   ||                       */
 /*                    ||                   ||                       */
+/*                    ||                   ||                       */
 
 body {
     background-color: #d9dcd6;
 }
 
- /*fixed the header so that it follows when scrolling through the page*/
+/*fixed the header so that it follows when scrolling through the page*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -51,10 +54,6 @@ a {
     text-decoration: none;
 }
 
-p {
-    font-size: 16px;
-}
-
 h1 {
     display: inline-block;
     font-size: 48px;
@@ -72,6 +71,10 @@ h3 {
     text-align: center;
 }
 
+p {
+    font-size: 16px;
+}
+
 /*moved footer to be included with the general stylings*/
 footer {
     padding: 30px;
@@ -85,6 +88,7 @@ footer h2 {
 }
 
 /*                    || CLASS SELECTORS ||                    */
+/*                    ||                 ||                    */
 /*                    ||                 ||                    */
 
 .seo {
