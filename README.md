@@ -10,7 +10,7 @@
 
 ## Description 
 
-[Visit the Deployed Site](https://dchung12.github.io/Site-Refactoring)
+[Visit the Deployed Site](https://dchung13.github.io/Site-Refractoring/)
 
 This repository is where I refactored an existing website to adhere to the accessibility standards for use by all individuals. This includes rewriting the HTML code to use semantic HTML elements and rewriting and reorganizing the CSS code to be consolidated and more user friendly.  
 
