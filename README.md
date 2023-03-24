@@ -95,58 +95,57 @@ header {
 ## Installation
 This installation guide is to be used when creating changes to the code or making personal edits for any projects.
 
-[1]. Access the repository from my github [GitHub Repository](https://github.com/dchung13/Site-Refractoring).
-[2]. Copy the SSH key from the repository.
-[3]. Clone the repository to your computer.
-[4]. Open the repository on your computer.
-[5]. Access the code through your IDE.
+* [1]. Access the repository from my [GitHub Repository](https://github.com/dchung13/Site-Refractoring).
+* [2]. Copy the SSH key from the repository.
+* [3]. Clone the repository to your computer.
+* [4]. Open the repository on your computer.
+* [5]. Access the code through your IDE.
 
 ## Usage 
 
 Added accessibility tags for the images and restructured the style sheet to consolidate similar sections together.
 
 ```md
-![alt="Screenshot of code organization"](./assets/images/code-organization-snippet.png)
+![Screenshot of Code Organization](./assets/images/code-organization-snippet.png)
 ```
 
 Here is a screenshot of the changed header that was fixed to the top of the screen, added an emphasis to the seo section of Horiseon, and ensured the header links were visible and working.
 ```md
-![alt="Screenshot of fixed header and navigation links](./assets/images/site-header-screenshot.png)
+![Screenshot of fixed header and navigation links](./assets/images/site-header-screenshot.png)
 ```
 
 ```md
-![alt="Screenshot of changed header code"](./assets/images/header-code-screenshot.png)
+![Screenshot of changed header code](./assets/images/header-code-screenshot.png)
 ```
 The navigation links lead to the individual sections as shown below:
 ```md
-![alt="Screenshot of working site"](./assets/images/Site-Screenshot.png)
+![Screenshot of working site](./assets/images/Site-Screenshot.png)
 ```
 
 ## Learning Points
 
 Research was conducted on semantic HTML language and the elements to be used when creating an accessible website. These are the resources that were used to incorporate those elements into refactoring a website.
 
-[1]. [W3 HTML Semantics](https://www.w3schools.com/html/html5_semantic_elements.asp) I learned about semantic HTML language through the use of the W3 HTML Semantics site, including what tags should be avoided and which to be used when given accessibility standards.
-[2]. [MDN HTML Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics) I researched more about which tags to use to add semantic elements for HTML.
+* [1]. [W3 HTML Semantics](https://www.w3schools.com/html/html5_semantic_elements.asp) I learned about semantic HTML language through the use of the W3 HTML Semantics site, including what tags should be avoided and which to be used when given accessibility standards.
+* [2]. [MDN HTML Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics) I researched more about which tags to use to add semantic elements for HTML.
 
 Accessibility standards for websites was also researched to ensure the site refactoring adhere to those guidelines. This resource was used to research the accessibility standards.
 
-[3]. [Accessibility Standards](https://www.ada.gov/resources/web-guidance/) I researched and learned about accessibility standards for websites.
+* [3]. [Accessibility Standards](https://www.ada.gov/resources/web-guidance/) I researched and learned about accessibility standards for websites.
 
 ## Author Info
 
-```md
 ### David Chung
 
 
 * [Portfolio](#) Coming Soon!
 * [LinkedIn](https://www.linkedin.com/in/david-chung-77141526b/)
 * [Github](https://github.com/dchung13/)
-```
+
 
 ## Credits
 
-[1]. Bryan Nguyen ![Bryan Nguyen GitHub](https://github.com/bryannguyen9)
+![Bryan Nguyen](https://github.com/bryannguyen9)
 
 ## License
 
