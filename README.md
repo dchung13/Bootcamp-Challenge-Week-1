@@ -17,8 +17,11 @@ This repository is where I refactored an existing website to adhere to the acces
 
 ## Table of Contents
 
+* [Code Refactor Example](#code-refactor-example)
 * [Installation](#installation)
 * [Usage](#usage)
+* [Learning Points](#learning-points)
+* [Author Info](#author-info)
 * [Credits](#credits)
 * [License](#license)
 
