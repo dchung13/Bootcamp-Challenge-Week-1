@@ -145,7 +145,7 @@ Accessibility standards for websites was also researched to ensure the site refa
 
 ## Credits
 
-![Bryan Nguyen](https://github.com/bryannguyen9)
+[Bryan Nguyen](https://github.com/bryannguyen9)
 
 ## License
 
