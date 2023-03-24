@@ -105,22 +105,22 @@ This installation guide is to be used when creating changes to the code or makin
 
 Added accessibility tags for the images and restructured the style sheet to consolidate similar sections together.
 
-```md
+
 ![Screenshot of Code Organization](./assets/images/code-organization-snippet.png)
-```
+
 
 Here is a screenshot of the changed header that was fixed to the top of the screen, added an emphasis to the seo section of Horiseon, and ensured the header links were visible and working.
-```md
-![Screenshot of fixed header and navigation links](./assets/images/site-header-screenshot.png)
-```
 
-```md
+![Screenshot of fixed header and navigation links](./assets/images/site-header-screenshot.png)
+
+
+
 ![Screenshot of changed header code](./assets/images/header-code-screenshot.png)
-```
+
 The navigation links lead to the individual sections as shown below:
-```md
+
 ![Screenshot of working site](./assets/images/Site-Screenshot.png)
-```
+
 
 ## Learning Points
 
